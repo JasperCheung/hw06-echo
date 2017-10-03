@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hw#06</title>
+  </head>
+
+  <body>
+    <form action="/echo" method="get">
+      <input name="u_name" type="text"></input>
+      <input type="submit"></input>
+    </form>
+  </body>
+</html>

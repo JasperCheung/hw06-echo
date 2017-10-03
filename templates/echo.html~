@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello {{name}} </title>
+  </head>
+
+  <body>
+    <br>
+    <br>
+    <h1> Whats up!, {{ name }}</h1>
+    <br><br>
+    <h3>Request method: {{ method }}</h3>
+  </body>
+</html>
